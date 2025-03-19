@@ -32,19 +32,19 @@ Concepts such as control structures and modular designs were introduced.Improvin
 A new approach to software development was introduced.It emphasized flexibility,collaboration and customer feedback over rigid planning and processes
 List and briefly explain the phases of the Software Development Life Cycle.
 1. Planning
-   This phase involves defining the scope and objectives of the software project.
+This phase involves defining the scope and objectives of the software project.
 3. Requirements Analysis
-   In this phase, detailed requirements are gathered from stakeholders and users. This includes functional requirements and non-functional requirements 
+In this phase, detailed requirements are gathered from stakeholders and users. This includes functional requirements and non-functional requirements 
 4. Design
-  The design phase involves creating the architecture of the software.
+The design phase involves creating the architecture of the software.
 5. Implementation (Coding)
-   During this phase, developers write the actual code based on the design specifications. 
+During this phase, developers write the actual code based on the design specifications. 
 6. Testing
-   After implementation, the software undergoes rigorous testing to identify and fix defects.
+ After implementation, the software undergoes rigorous testing to identify and fix defects.
 7. Deployment
-   Once testing is complete and the software is deemed ready, it is deployed to the production environment. 
+Once testing is complete and the software is deemed ready, it is deployed to the production environment. 
 8. Maintenance
-   After deployment, the software enters the maintenance phase. This involves ongoing support, bug fixes, and updates to enhance functionality or address issues. 
+After deployment, the software enters the maintenance phase. This involves ongoing support, bug fixes, and updates to enhance functionality or address issues. 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Waterfall is a linear and sequential approach to software development. Each phase must be completed before the next one begins, and there is little room for revisiting previous stages.
 Scenarios
