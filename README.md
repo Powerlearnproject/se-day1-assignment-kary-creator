@@ -25,12 +25,10 @@ Market Leadership: High-quality software can set companies apart in a competitiv
 6. User-Centric Design
 Focus on Users: Software engineering emphasizes understanding user needs, leading to products that provide better user experiences.
 Feedback Integration: Continuous feedback loops allow for ongoing improvements based on user input.
-
 Identify and describe at least three key milestones in the evolution of software engineering.
 1.Birth of software engineering in 1968
 A need for systematic approaches and methodologies,and best practices to improve software quality and manageability was realized.
-eg Fortran
-2.Introduction of structured programming 1970
+2.Introduction of structured programming 1970.
 Concepts such as control structures and modular designs were introduced.Improving code clarity and maintainability.
 3.The Agile Manifesto 2001
 A new approach to software development was introduced.It emphasized flexibility,collaboration and customer feedback over rigid planning and processes
@@ -49,14 +47,12 @@ List and briefly explain the phases of the Software Development Life Cycle.
    Once testing is complete and the software is deemed ready, it is deployed to the production environment. 
 8. Maintenance
    After deployment, the software enters the maintenance phase. This involves ongoing support, bug fixes, and updates to enhance functionality or address issues. 
-
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Waterfall is a linear and sequential approach to software development. Each phase must be completed before the next one begins, and there is little room for revisiting previous stages.
 Scenarios
 Clear Requirements: When project requirements are well-understood and unlikely to change (e.g., a government project with strict regulations).
 Short Projects: For small projects with limited scope where the timeline is predictable (e.g., a simple internal tool).
 Regulatory Compliance: In industries where documentation and process adherence are critical, such as healthcare or finance.
-
 Agile is an iterative and incremental approach to software development that emphasizes flexibility, collaboration, and customer feedback.
 Scenarios
 Evolving Requirements: When project requirements are expected to change frequently (e.g., a startup developing a new app based on user feedback).
@@ -75,7 +71,6 @@ Agile
 3.Less emphasis; focuses on working software
 4.Continuous feedback and involvement
 5.Projects with evolving requirements
-
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 1.Software Developer
 Focuses on coding, design, testing, and debugging to create functional software.
@@ -83,7 +78,6 @@ Focuses on coding, design, testing, and debugging to create functional software.
 Ensures software quality through testing, bug identification, and feedback.
 3.Project Manager
 Oversees project planning, resource allocation, communication, and risk management to ensure successful project delivery.
-
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 -1-Importance of Integrated Development Environment
 a.Enhanced Productivity - IDEs provide a comprehensive environment that integrates various tools and features, such as code editors, debuggers, and compilers, streamlining the development process.
@@ -99,7 +93,6 @@ c.Branching and Merging - Developers can create branches to work on new features
 d.Backup and Recovery - VCS serves as a backup for the codebase, enabling recovery of previous versions in case of errors or data loss.
 e.Audit Trail - VCS provides an audit trail of who made changes, when, and why, which is essential for accountability and transparency in the development process.
 Examples Git,Subversion,Mercurial
-
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 Challenges
 1.Changing Requirements - Requirements can evolve due to stakeholder feedback, market demands, or technological advancements, leading to scope creep.
@@ -115,7 +108,6 @@ Strategies
 4.Time Blocking -  Allocate specific time slots for focused work on particular tasks to enhance productivity.
 5.Systematic Debugging - Use systematic debugging techniques, such as rubber duck debugging or the scientific method, to isolate and resolve issues.
 6.Community Engagement - Participate in developer communities, forums, and open-source projects to learn from peers and share knowledge.
-
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 Unit Testing - involves testing individual components or functions of the software in isolation to ensure they work as intended.
 Importance
@@ -138,13 +130,9 @@ Importance
 1.User Satisfaction- Validates that the software meets the needs and expectations of end-users, ensuring their satisfaction.
 2.Risk Mitigation- Identifies any critical issues before the software is released into production, reducing the risk of failure.
 3.Formal Approval- Provides a formal sign-off from stakeholders, indicating that the software is ready for deployment and aligns with business objectives.
-
-
-#Part 2: Introduction to AI and Prompt Engineering
-
+#Part 2: 
 Define prompt engineering and discuss its importance in interacting with AI models.
 is the process of designing and refining the input prompts given to AI models to give desired results
-
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Vague prompt
 Tell me about the thing.
